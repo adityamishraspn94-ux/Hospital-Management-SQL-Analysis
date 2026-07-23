@@ -23,5 +23,5 @@ The analysis covers four core operational areas using standard SQL operations (J
 ---
 
 ## 4. Technologies Used
-* **Database:** MySQL
+* **Database:** MySQL Workbench
 * **Techniques:** `SELECT`, `WHERE`, `GROUP BY`, `HAVING`, `JOIN` (Inner & Left), `AGGREGATE FUNCTIONS` (SUM, AVG, COUNT, MIN, MAX), `CASE WHEN`, `TIMESTAMPDIFF`.
